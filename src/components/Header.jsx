@@ -10,7 +10,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-gray-800 text-white fixed w-full top-0 z-10">
+    <header id="header" className="bg-gray-800 text-white fixed w-full top-0 z-10">
       <div className="container mx-auto flex justify-between items-center p-4">
         <h1 className="text-2xl font-bold">Mr . Kesavan </h1>
 
