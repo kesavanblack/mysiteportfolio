@@ -6,10 +6,12 @@ const skills = [
   { name: "JavaScript", level: "Intermediate" },
   { name: "Data Science ", level: "Advanced" },
   { name: "Java ", level: "Intermediate" },
+  { name: "J2EE ", level: "Intermediate" },
   { name: "SQL", level: "Advanced" },
   { name: "R Programming", level: "Intermediate" },
   { name: "Tailwind CSS", level: "Intermediate" },
   { name: "HTML & CSS ", level: "Advanced" },
+  { name: "Streamlit", level: "Intermediate" },
 ];
 
 const Skills = () => {
