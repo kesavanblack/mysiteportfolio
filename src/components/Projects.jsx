@@ -23,7 +23,7 @@ const projects = [
   {
     name: "STREAMLIT ",
     description: " Open Tool Data Analysis Using Streamlit App...",
-    url: "#",
+    url: "https://app-app-ds-6tx3seme4ebd2qdvc8krv9.streamlit.app/",
   },
 ];
 
