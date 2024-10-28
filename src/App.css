@@ -1,6 +1,16 @@
 #home{
-    background-image: url("./assets/img5.jpeg");
-    background-size: cover; 
+    background-image: url("./assets/img11.jpg");
+    background-size: cover;
+    background-position: center;
+  background-repeat: no-repeat; 
     
    
 }
+
+@media (max-width: 768px) {
+    #home{
+      
+      background-size: cover;/* Keeps image contained on mobile */
+      width: 100%;
+    }
+  }
