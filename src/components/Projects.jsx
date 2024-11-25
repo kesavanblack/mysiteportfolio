@@ -3,12 +3,12 @@ const projects = [
   {
     name: "JAVA & J2EE",
     description: "User Authentication Web Site & Java  Projects...",
-    url: "#",
+    url: "https://github.com/kesavanblack/login-form-for-student-java",
   },
   {
     name: "PYTHON ",
     description: "Attendance Register Using Open CV ...",
-    url: "#",
+    url: "https://github.com/kesavanblack/attence-register-use-open-cv",
   },
   {
     name: "DATA SCIENCE / ANALYST",
